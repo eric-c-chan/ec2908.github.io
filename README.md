@@ -92,3 +92,6 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 `btc: 36V7HqqENSKn6iFCBuE4iCdtB29uGoCKzN`
 
 `eth: 0xB419E3E9fa2233383E0877d442e55C34B9C944dD`
+
+# Icons
+<a href="https://iconscout.com/icon/cone-304" target="_blank">Cone Icon</a> by <a href="https://iconscout.com/contributors/vincent-le-moign" target="_blank">Vincent Le Moign</a>
