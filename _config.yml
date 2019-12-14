@@ -2,7 +2,7 @@
 title: Eric Chan
 description: A blog about my life and work
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://ericc.me" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Eric Chan
